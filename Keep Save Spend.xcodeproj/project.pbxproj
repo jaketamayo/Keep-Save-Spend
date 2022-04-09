@@ -11,6 +11,7 @@
 		CF86D2B728010EF00066E5EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF86D2B628010EF00066E5EE /* ContentView.swift */; };
 		CF86D2B928010EF10066E5EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF86D2B828010EF10066E5EE /* Assets.xcassets */; };
 		CF86D2BC28010EF10066E5EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF86D2BB28010EF10066E5EE /* Preview Assets.xcassets */; };
+		CF8AE06B2801E2C50079380D /* CustomTextFieldModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8AE06A2801E2C50079380D /* CustomTextFieldModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CF86D2B628010EF00066E5EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CF86D2B828010EF10066E5EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF86D2BB28010EF10066E5EE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CF8AE06A2801E2C50079380D /* CustomTextFieldModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CF86D2B428010EF00066E5EE /* Keep_Save_SpendApp.swift */,
 				CF86D2B628010EF00066E5EE /* ContentView.swift */,
+				CF8AE06A2801E2C50079380D /* CustomTextFieldModifier.swift */,
 				CF86D2B828010EF10066E5EE /* Assets.xcassets */,
 				CF86D2BA28010EF10066E5EE /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF86D2B728010EF00066E5EE /* ContentView.swift in Sources */,
+				CF8AE06B2801E2C50079380D /* CustomTextFieldModifier.swift in Sources */,
 				CF86D2B528010EF00066E5EE /* Keep_Save_SpendApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
